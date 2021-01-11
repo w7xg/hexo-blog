@@ -10,7 +10,7 @@ excerpt_link: Read More
 fancybox: true
 
 # Sidebar
-sidebar: right
+sidebar: left
 widgets:
 - category
 - tag
@@ -31,7 +31,7 @@ show_count: false
 # Miscellaneous
 google_analytics:
 gauges_analytics:
-favicon: /favicon.png
+favicon: https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3764546753,1440006942&fm=26&gp=0.jpg
 twitter:
 google_plus:
 fb_admins:
